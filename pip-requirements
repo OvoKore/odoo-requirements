@@ -1,0 +1,81 @@
+# Odoo
+Babel
+decorator
+docutils
+ebaysdk
+feedparser
+gevent
+greenlet
+html2text
+Jinja2
+lxml
+Mako
+MarkupSafe
+mock
+num2words
+ofxparse
+passlib
+Pillow
+psutil
+psycogreen
+psycopg2
+pydot
+pyldap
+pyparsing
+PyPDF2
+pyserial
+python-dateutil
+python-openid
+pytz
+pyusb
+PyYAML
+qrcode
+reportlab
+requests
+six
+suds-jurko
+vatnumber
+vobject
+Werkzeug
+XlsxWriter
+xlwt
+xlrd
+phonenumbers
+
+# odoo-brasil
+suds-jurko-requests
+xmlsec
+
+# trustcode-addons
+boto3
+plotly
+pandas
+relatorio
+urllib3==1.22
+pyopenssl
+num2words
+twilio
+pika
+iugu
+pycnab240
+
+##verificar se precisa
+#pypandoc
+
+##dei pull request lá, dps vai funcionar
+#PyTrustNFe
+
+##dei pull request lá, dps vai funcionar
+#python-cnab
+
+##git clone https://github.com/eduardocereto/pyboleto.git
+##cd pyboleto
+##pip3 setup.py install
+#pyboleto
+python3-boleto
+
+#precisa??
+#zeep
+
+# reload
+watchdog
