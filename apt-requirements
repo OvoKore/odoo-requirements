@@ -17,6 +17,7 @@ locales
 supervisor
 
 ##### Dependências da Localização Brasileira #####
+libssl-dev
 libxmlsec1-dev
 python-openssl
 python-cffi
