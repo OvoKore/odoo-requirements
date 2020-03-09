@@ -7,8 +7,6 @@ libldap2-dev
 libpq-dev
 libjpeg-dev
 nodejs
-nodejs-dev
-node-gyp
 npm
 
 # Ferramentas
@@ -19,7 +17,6 @@ locales
 supervisor
 
 ##### Dependências da Localização Brasileira #####
-libssl-dev
 libxmlsec1-dev
 python-openssl
 python-cffi
